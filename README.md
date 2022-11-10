@@ -7,5 +7,5 @@ There are many mods and plugins I did before but everything is sealed in private
 ### Languages
 <img src="https://i.imgur.com/t7KHl1x.png" width=35 /> <img src="https://raw.githubusercontent.com/kadir014/kadir014.github.io/master/assets/clogo.png" width=35 />
 
-### Contact
+### 📝 Contact
 - <img src="https://i.imgur.com/62IuQAp.png" width=20>  Singularity#5411
