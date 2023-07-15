@@ -2,7 +2,11 @@
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hmmmmmmmm...%3F;Wait...;Lorem+ipsum+dolor+sit+amet.;Welcome+to+my+profile!"></a>
   <br>
-  <img  src="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake-dark.svg" alt="snake" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake.svg" />
+  </picture>
 </p>
 
 ## 🧍‍♂️ About me
