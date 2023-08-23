@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Singulariity/Singulariity/main/icons/wave.gif" width="24">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hmmmmmmmm...%3F;Wait...;Lorem+ipsum+dolor+sit+amet.;Welcome+to+my+profile!"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hmmmmmmmm...%3F;Lorem+ipsum+dolor+sit+amet."></a>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake-dark.svg" />
