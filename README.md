@@ -24,6 +24,7 @@ Currently working on Umineko Turkish Translation project.
 ## <img src="https://raw.githubusercontent.com/Singulariity/Singulariity/main/icons/skills.gif" width="24" /> Things I know
 <a href="https://youtu.be/m4-HM_sCvtQ" target="_blank"><img src="https://img.shields.io/badge/Java-ec8e11.svg?&style=for-the-badge&logo=intellijidea&logoColor=ec8e11&labelColor=000000" title="Java" /></a>
 <a href="https://i.imgur.com/3RRN1I2.png" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000" title="Javascript" /></a>
+<a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000" title="TypeScript" /></a>
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4.svg?&style=for-the-badge&logo=php&logoColor=777BB4&labelColor=000000" title="PHP" /></a>
 <a href="#"><img src="https://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=000000" title="HTML" /></a>
 <a href="#"><img src="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=000000" title="CSS" /></a>
