@@ -1,7 +1,5 @@
 # Hi there! <img src="https://raw.githubusercontent.com/Singulariity/Singulariity/main/icons/wave.gif" width="24">
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Hmmmmmmmm...%3F;Lorem+ipsum+dolor+sit+amet."></a>
-  <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Singulariity/Singulariity/snake/snake.svg" />
@@ -39,4 +37,4 @@ I love Java.
 
 <p align="right"><i>“Both love and happiness are the same as the air.</i></p>  
 <p align="right"><i>Even though it fills the world, if you don't understand it, it's the same as if it doesn't exist.”</i></p>  
-<p align="right"><i>Without <a href="https://youtu.be/e_FzCtowFgM" target="_blank">love</a>, it cannot be seen.</i></p>
+<p align="right"><i>Without <a href="https://youtu.be/FhJkp48lipA" target="_blank">love</a>, it cannot be seen.</i></p>
