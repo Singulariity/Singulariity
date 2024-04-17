@@ -34,9 +34,3 @@ I think I don't know C++ very well (:
 -->
 
 I love Java.
-
-<br><br><br>
-
-<p align="right"><i>“Both love and happiness are the same as the air.</i></p>  
-<p align="right"><i>Even though it fills the world, if you don't understand it, it's the same as if it doesn't exist.”</i></p>  
-<p align="right"><i>Without <a href="https://youtu.be/iaZxTAXuA9s" target="_blank">love</a>, it cannot be seen.</i></p>
