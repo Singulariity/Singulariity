@@ -10,12 +10,12 @@
 ## 🧍‍♂️ About me
 <img align="right" src="https://komarev.com/ghpvc/?username=Singulariity&style=for-the-badge&color=blue">
 
-I'm a 23 years-old computer engineering student who really loves coding and game stuff.  
+I'm a 24 years-old computer engineer who really loves coding and game stuff.  
 I have about 11 years of self-taught, college and practical experience on programming.  
 The truth is, all this programming stuff is a hobby that I enjoy doing and I spent most of my time with Minecraft modding and server stuff.  
 There are many mods and plugins I did before but (almost) everything is sealed in private repositories now.
 
-Currently working on Umineko Turkish Translation project.
+Currently working on Umineko Turkish Translation project and other mini side projects.
 
 <br>
 
